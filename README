@@ -1,0 +1,14 @@
+# Inicializando o projeto
+go mod init github.com/elieudomaia/eventd-driven-architecture
+
+
+
+
+
+
+
+
+export PATH=$PATH:/usr/local/go/bin
+if [ -d "$HOME/bin" ] ; then
+  PATH="$PATH:$HOME/bin"
+fi
