@@ -4,7 +4,7 @@
 <p>Implementation of a simple package in Go, used to register and trigger events.</p>
 
 <h3>Install dependencies</h3>
-`go mod tidy`
+<code>go mod tidy</code>
 
 <h3>Run tests</h3>
-`go test ./...`
+<code>go test ./...</code>
